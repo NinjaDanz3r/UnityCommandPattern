@@ -4,7 +4,7 @@
 /// Command pattern implementation loosely based on the following source material:
 /// https://www.richard-banks.org/2008/09/generic-command-pattern-in-net-35.html
 /// </summary>
-namespace CommandPattern
+namespace GenericUnityPatterns.CommandPattern
 {
     public interface ICommand
     {
