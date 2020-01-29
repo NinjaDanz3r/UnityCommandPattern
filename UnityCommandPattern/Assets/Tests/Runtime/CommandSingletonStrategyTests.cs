@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using NUnit.Framework;
-using UnityEngine;
 using GenericUnityPatterns.CommandPattern;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
@@ -50,7 +49,6 @@ namespace Tests
         {
             public void IncreaseNumberOfEnemies()
             {
-                Debug.Log("Increased number of enemies");
                 TestGameState.Instance.numberOfEnemies++;
             }
 
