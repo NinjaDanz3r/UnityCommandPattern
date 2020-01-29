@@ -1,6 +1,6 @@
 {
   "name": "com.ninjadanzer.unitypatterns",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Unity patterns",
   "description": "A simple repository of generic patterns for Unity.",
   "unity": "2019.3",
