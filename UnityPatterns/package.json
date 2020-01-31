@@ -1,0 +1,18 @@
+{
+  "name": "com.ninjadanzer.unitypatterns",
+  "version": "0.0.2",
+  "displayName": "Unity patterns",
+  "description": "A simple repository of generic patterns for Unity.",
+  "unity": "2019.3",
+  "unityRelease": "6f0",
+  "keywords": [
+    "architecture",
+    "patterns"
+  ],
+  "author": {
+    "name": "Daniel Pejcinovski",
+    "email": "danielpejcinovski@gmail.com",
+    "url": "https://github.com/NinjaDanz3r/UnityCommandPattern"
+  },
+  "type": "library"
+}
